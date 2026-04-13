@@ -19,7 +19,8 @@ The report explains the concept of the Fabric Data Agent, which enables natural 
 
 ## 🌍 Context
 Created during an internship at **Arineo GmbH**, Göttingen (2026)
-for an internal team environment...
+for an internal team environment, focusing on understanding 
+capabilities, limitations, and practical use cases.
 
 ## ⚠️ Note
 

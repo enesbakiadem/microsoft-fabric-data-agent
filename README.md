@@ -1,6 +1,6 @@
 # Microsoft Fabric Data Agent
 
-This repository contains a short internal report on the Microsoft Fabric Data Agent, created in a business context during my internship.
+This repository contains a short research report on the Microsoft Fabric Data Agent, created during my internship in a business context.
 
 ## 📄 Report
 
@@ -18,16 +18,13 @@ The report explains the concept of the Fabric Data Agent, which enables natural 
 - Potential for self-service data analysis  
 
 ## 🌍 Context
-Created during an internship at **Arineo GmbH**, Göttingen (2026)
-for an internal team environment, focusing on understanding 
-capabilities, limitations, and practical use cases.
 
-## ⚠️ Note
+This report was created during my internship at **Arineo GmbH** in Göttingen.
 
-The evaluation is based on official documentation,  
-as practical testing was not possible.
+It was written for an internal team context and focuses on the capabilities, limitations, and possible use cases of the Microsoft Fabric Data Agent.
+
+The evaluation is based on official Microsoft documentation, as practical testing was not possible at the time.
 
 ## 📌 Takeaway
 
-The Fabric Data Agent has strong potential to simplify access to data —  
-but depends heavily on well-structured datasets and is currently limited in scope.
+The Fabric Data Agent has strong potential to simplify access to data, but depends heavily on well-structured datasets and is currently limited in scope.
